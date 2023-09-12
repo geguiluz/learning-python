@@ -1,4 +1,4 @@
-s = "Hey there! what should this string be?"
+s = "Str 456 a90a2 45ome!"
 # Length should be 20
 print("Length of s = %d" % len(s))
 
